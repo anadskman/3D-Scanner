@@ -138,7 +138,7 @@ Several improvements were made throughout the design:
 | Fuse | Protects the main power input | 1 | 1 | [Amazon](https://www.amazon.ie/SeKi-Micro-Fuse-Glass-Fuses/dp/B09JZHQYR6/ref=sr_1_2?sr=8-2) | €6.88 | Amazon |
 | Fuse Holder | Holds the fuse | 1 | 1 | [Amazon](https://www.amazon.ie/ECSiNG-Holder-Transparent-Terminals-5x20mm/dp/B0C4983C7C/ref=sr_1_2?sr=8-2) | €7.49 | Amazon |
 | SB540 Schottky diode | reverse polarary protection | 1 | 1 | [Amazon](https://www.amazon.ie/20-Pieces-SR540-Schottky-Rectifier/dp/B079KDRFY7/ref=sr_1_2?sr=8-2) | €6.26  | Amazon |
-**Total** **€146.76**
+**Total** **€130.83**
 
 Prices are for the full packs purchased, not the cost of only the parts used. The third stepper motor and spare LED rings are included in the purchase quantities.
 
