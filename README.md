@@ -124,17 +124,17 @@ Several improvements were made throughout the design:
 | WS2812 LED Rings | Provides lighting around the object | 5 | 1 | [Amazon](https://www.amazon.ie/gp/product/B0CMW5LWM2/ref=ox_sc_act_title_3?smid=A35XDNP896ERNI&psc=1) | €8.19 | Amazon |
 | Limit Switches | Used for homing and movement limits | 3 | 3 | [Amazon](https://www.amazon.ie/Official-Switch-3-Piece-Compatible-Printers/dp/B09R3TWDSV/ref=sr_1_20?sr=8-20) | €4.99  | Amazon |
 | ESP32 Development Board | Main controller for the scanner | 1 | 1 | [Amazon](https://www.amazon.ie/DollaTek-Development-Bluetooth-compatible-Ultra-Low-Consumption/dp/B0CXT3978J/ref=rvi_d_sccl_16/257-0773453-0872007?psc=1) | 7.99  | Amazon |
-| DRV8825 Stepper Drivers | Controls the NEMA 17 motors | 2 | 2 | Owned | Owned | Owned |
+| DRV8825 Stepper Drivers | Controls the NEMA 17 motors | 2 | 2 | [Owned](https://google.com) | Owned | Owned |
 | Custom PCB | Connects the electronics together | 1 | 1 | [JlCPCB](https://cart.jlcpcb.com/quote/gerberviewThree/?qs=2035bd6f6bf045a4be76bd0e8a033c01_1_0_1_0_0.html) | €22.63 | JlCPCB |
-| 12V DC Power Supply | Main power for the scanner | 1 | 1 | Owned | Owned | Owned |
+| 12V DC Power Supply | Main power for the scanner | 1 | 1 | [Owned](https://google.com) | Owned | Owned |
 | 5V Buck Converter | Converts 12V to 5V for the ESP32 and LEDs | 1 | 1 | [Amazon](https://www.amazon.ie/Converter-Adjustable-Voltage-Efficient-Regulator/dp/B0FLYNNNWL/ref=sr_1_1?sr=8-1) | €8.99 | Amazon |
 | 74AHCT125 | Logic level shifting for the LED data signal | 1 | 1 | [Amazon](https://www.amazon.ie/Be-Your-Mind-SN74AHCT125N-Three-State/dp/B0DXK7PWTN/ref=sr_1_1?sr=8-1) | €9.49 | Amazon |
-| 330Ω Resistor | LED data line protection | 1 | 1 | Owned | Owned | Owned |
-| 1000µF Capacitor | Smooths the LED power supply | 1 | 1 | Owned | Owned | Owned |
-| 100µF Capacitors | Filters power near the stepper drivers | 2 | 2 | Owned | Owned | Owned |
-| 100nF Capacitors | Decoupling for the electronics | 2+ | 2+ | Owned | Owned | Owned |
-| Barrel Jack | Main power input | 1 | 1 | Owned | Owned | Owned |
-| Screw Terminals / Connectors | Connects motors and power wiring | As required | As required | Owned | Owned | Owned |
+| 330Ω Resistor | LED data line protection | 1 | 1 | [Owned](https://google.com) | Owned | Owned |
+| 1000µF Capacitor | Smooths the LED power supply | 1 | 1 | [Owned](https://google.com) | Owned | Owned |
+| 100µF Capacitors | Filters power near the stepper drivers | 2 | 2 | [Owned](https://google.com) | Owned | Owned |
+| 100nF Capacitors | Decoupling for the electronics | 2+ | 2+ | [Owned](https://google.com) | Owned | Owned |
+| Barrel Jack | Main power input | 1 | 1 | [Owned](https://google.com) | Owned | Owned |
+| Screw Terminals / Connectors | Connects motors and power wiring | As required | As required | [Owned](https://google.com) | Owned | Owned |
 | Fuse | Protects the main power input | 1 | 1 | [Amazon](https://www.amazon.ie/SeKi-Micro-Fuse-Glass-Fuses/dp/B09JZHQYR6/ref=sr_1_2?sr=8-2) | €6.88 | Amazon |
 | Fuse Holder | Holds the fuse | 1 | 1 | [Amazon](https://www.amazon.ie/ECSiNG-Holder-Transparent-Terminals-5x20mm/dp/B0C4983C7C/ref=sr_1_2?sr=8-2) | €7.49 | Amazon |
 | SB540 Schottky diode | reverse polarary protection | 1 | 1 | [Amazon](https://www.amazon.ie/20-Pieces-SR540-Schottky-Rectifier/dp/B079KDRFY7/ref=sr_1_2?sr=8-2) | €6.26  | Amazon |
