@@ -119,16 +119,16 @@ Several improvements were made throughout the design:
 
 | **Name** | **Purpose** | **Quantity Purchased** | **Quantity Used** | **Link** | **Total Cost (EUR)** | **Distributor** |
 | -------- | ----------- | --------------------- | ----------------- | -------------------- | -------- | --------------- |
-| InnoMaker 1080p USB Camera | Captures images of the object | 1 | 1 | [Aliexpress](https://www.aliexpress.com/item/1005006746641254.html?pdp_ext_f=%7B%22order%22%3A%22206%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D) | €13.96  | Amazon |
+| InnoMaker 1080p USB Camera | Captures images of the object | 1 | 1 | [Aliexpress](https://www.aliexpress.com/item/1005006746641254.html?pdp_ext_f=%7B%22order%22%3A%22206%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D) | €13.96  | Aliexpress |
 | NEMA 17 Stepper Motors | Drives the turntable and arch | 2 | 2 | [Aliexpress](https://www.aliexpress.com/item/1005003874936862.html?pdp_ext_f=%7B%22order%22%3A%228327%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D) | €15.62 | Aliexpress |
-| WS2812 LED Rings | Provides lighting around the object | 5 | 1 | [Aliexpress](https://www.aliexpress.com/item/1005009796023642.html?pdp_ext_f=%7B%22order%22%3A%22601%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D) | €1.60 | Amazon |
+| WS2812 LED Rings | Provides lighting around the object | 5 | 1 | [Aliexpress](https://www.aliexpress.com/item/1005009796023642.html?pdp_ext_f=%7B%22order%22%3A%22601%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D) | €1.60 | Aliexpress |
 | Limit Switches | Used for homing and movement limits | 3 | 3 | [Aliexpress](https://www.aliexpress.com/item/1005010502837975.html?pdp_ext_f=%7B%22order%22%3A%22288%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D) | €5.12  | Aliexpress |
-| ESP32 Development Board | Main controller for the scanner | 1 | 1 | aliexpress Bundle | €7.97  | Aliexpress |
+| ESP32 Development Board | Main controller for the scanner | 1 | 1 | [Aliexpress](https://www.aliexpress.com/item/1005010243973125.html?mp=1) | €4.92  | Aliexpress |
 | DRV8825 Stepper Drivers | Controls the NEMA 17 motors | 2 | 2 | [Owned](https://google.com) | Owned | Owned |
 | Custom PCB | Connects the electronics together | 1 | 1 | [JlCPCB](https://cart.jlcpcb.com/quote/gerberviewThree/?qs=2035bd6f6bf045a4be76bd0e8a033c01_1_0_1_0_0.html) | €22.63 | JlCPCB |
 | 12V DC Power Supply | Main power for the scanner | 1 | 1 | [Owned](https://google.com) | Owned | Owned |
-| 5V Buck Converter | Converts 12V to 5V for the ESP32 and LEDs | 1 | 1 | aliexpress bundle(no link avalible) | €2.35 | Aliexpress |
-| 74AHCT125 | Logic level shifting for the LED data signal | 1 | 1 | [Amazon](https://www.amazon.ie/Be-Your-Mind-SN74AHCT125N-Three-State/dp/B0DXK7PWTN/ref=sr_1_1?sr=8-1) | €9.49 | Amazon |
+| 5V Buck Converter | Converts 12V to 5V for the ESP32 and LEDs | 1 | 1 | [Aliexpress](https://www.aliexpress.com/item/1005010001439374.html?aem_p4p_detail=202611231356486352359407962800003211756&pdp_ext_f=%7B%22order%22%3A%223088%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&search_p4p_id=202611231356486352359407962800003211756_2) | €2.02 | Aliexpress |
+| 74AHCT125 | Logic level shifting for the LED data signal | 1 | 1 | [Aliexpress](https://www.aliexpress.com/item/1005007252553002.html?pdp_ext_f=%7B%22order%22%3A%22709%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D) | €2.16 | Aliexpress |
 | 330Ω Resistor | LED data line protection | 1 | 1 | [Owned](https://google.com) | Owned | Owned |
 | 1000µF Capacitor | Smooths the LED power supply | 1 | 1 | [Owned](https://google.com) | Owned | Owned |
 | 100µF Capacitors | Filters power near the stepper drivers | 2 | 2 | [Owned](https://google.com) | Owned | Owned |
@@ -136,8 +136,8 @@ Several improvements were made throughout the design:
 | Barrel Jack | Main power input | 1 | 1 | [Owned](https://google.com) | Owned | Owned |
 | Screw Terminals / Connectors | Connects motors and power wiring | As required | As required | [Owned](https://google.com) | Owned | Owned |
 | Fuse Holder/ Fuse | Holds the fuse | 1 | 1 | [Aliexpress](https://www.aliexpress.com/item/1005007445051950.html?pdp_ext_f=%7B%22order%22%3A%22222%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D) | €2.10 | Aliexpress |
-| SB540 Schottky diode | reverse polarary protection | 1 | 1 | [Amazon](https://www.amazon.ie/20-Pieces-SR540-Schottky-Rectifier/dp/B079KDRFY7/ref=sr_1_2?sr=8-2) | €6.26  | Amazon |
-**Total** **€130.83**
+| SB540 Schottky diode | reverse polarary protection | 1 | 1 | [Aliexpress](https://www.aliexpress.com/item/1005012903395914.html?pdp_ext_f=%7B%22order%22%3A%221%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D) | €2.27  | Aliexpress |
+**Total** **€127.66**
 
 Prices are for the full packs purchased, not the cost of only the parts used. The third stepper motor and spare LED rings are included in the purchase quantities.
 
