@@ -119,25 +119,26 @@ Several improvements were made throughout the design:
 
 | **Name** | **Purpose** | **Quantity Purchased** | **Quantity Used** | **Link** | **Total Cost (EUR)** | **Distributor** |
 | -------- | ----------- | --------------------- | ----------------- | -------------------- | -------- | --------------- |
-| InnoMaker 1080p USB Camera | Captures images of the object | 1 | 1 | [Aliexpress](https://www.aliexpress.com/item/1005006746641254.html?pdp_ext_f=%7B%22order%22%3A%22206%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D) | €13.96  | Aliexpress |
-| NEMA 17 Stepper Motors | Drives the turntable and arch | 2 | 2 | [Aliexpress](https://www.aliexpress.com/item/1005003874936862.html?pdp_ext_f=%7B%22order%22%3A%228327%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D) | €15.62 | Aliexpress |
-| WS2812 LED Rings | Provides lighting around the object | 5 | 1 | [Aliexpress](https://www.aliexpress.com/item/1005009796023642.html?pdp_ext_f=%7B%22order%22%3A%22601%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D) | €1.60 | Aliexpress |
-| Limit Switches | Used for homing and movement limits | 3 | 3 | [Aliexpress](https://www.aliexpress.com/item/1005010502837975.html?pdp_ext_f=%7B%22order%22%3A%22288%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D) | €5.12  | Aliexpress |
-| ESP32 Development Board | Main controller for the scanner | 1 | 1 | [Aliexpress](https://www.aliexpress.com/item/1005010243973125.html?mp=1) | €4.92  | Aliexpress |
+| InnoMaker 1080p USB Camera | Captures images of the object | 1 | 1 | [Amazon](https://www.amazon.ie/gp/product/B0CNCSFQC1/ref=ox_sc_act_title_5?smid=A3LR51RN935ZZX&psc=1) | €20.92  | Amazon |
+| NEMA 17 Stepper Motors | Drives the turntable and arch | 3 | 2 | [Amazon](https://www.amazon.ie/gp/product/B0FSPZT9P4/ref=ox_sc_act_title_4?smid=A3JL2PT0MX26A6&psc=1) | €27.00 | Amazon |
+| WS2812 LED Rings | Provides lighting around the object | 5 | 1 | [Amazon](https://www.amazon.ie/gp/product/B0CMW5LWM2/ref=ox_sc_act_title_3?smid=A35XDNP896ERNI&psc=1) | €8.19 | Amazon |
+| Limit Switches | Used for homing and movement limits | 3 | 3 | [Amazon](https://www.amazon.ie/Official-Switch-3-Piece-Compatible-Printers/dp/B09R3TWDSV/ref=sr_1_20?sr=8-20) | €4.99  | Amazon |
+| ESP32 Development Board | Main controller for the scanner | 1 | 1 | [Amazon](https://www.amazon.ie/DollaTek-Development-Bluetooth-compatible-Ultra-Low-Consumption/dp/B0CXT3978J/ref=rvi_d_sccl_16/257-0773453-0872007?psc=1) | 7.99  | Amazon |
 | DRV8825 Stepper Drivers | Controls the NEMA 17 motors | 2 | 2 | [Owned](https://google.com) | Owned | Owned |
 | Custom PCB | Connects the electronics together | 1 | 1 | [JlCPCB](https://cart.jlcpcb.com/quote/gerberviewThree/?qs=2035bd6f6bf045a4be76bd0e8a033c01_1_0_1_0_0.html) | €22.63 | JlCPCB |
 | 12V DC Power Supply | Main power for the scanner | 1 | 1 | [Owned](https://google.com) | Owned | Owned |
-| 5V Buck Converter | Converts 12V to 5V for the ESP32 and LEDs | 1 | 1 | [Aliexpress](https://www.aliexpress.com/item/1005010001439374.html?aem_p4p_detail=202611231356486352359407962800003211756&pdp_ext_f=%7B%22order%22%3A%223088%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&search_p4p_id=202611231356486352359407962800003211756_2) | €2.02 | Aliexpress |
-| 74AHCT125 | Logic level shifting for the LED data signal | 1 | 1 | [Aliexpress](https://www.aliexpress.com/item/1005007252553002.html?pdp_ext_f=%7B%22order%22%3A%22709%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D) | €2.16 | Aliexpress |
+| 5V Buck Converter | Converts 12V to 5V for the ESP32 and LEDs | 1 | 1 | [Amazon](https://www.amazon.ie/Converter-Adjustable-Voltage-Efficient-Regulator/dp/B0FLYNNNWL/ref=sr_1_1?sr=8-1) | €8.99 | Amazon |
+| 74AHCT125 | Logic level shifting for the LED data signal | 1 | 1 | [Amazon](https://www.amazon.ie/Be-Your-Mind-SN74AHCT125N-Three-State/dp/B0DXK7PWTN/ref=sr_1_1?sr=8-1) | €9.49 | Amazon |
 | 330Ω Resistor | LED data line protection | 1 | 1 | [Owned](https://google.com) | Owned | Owned |
 | 1000µF Capacitor | Smooths the LED power supply | 1 | 1 | [Owned](https://google.com) | Owned | Owned |
 | 100µF Capacitors | Filters power near the stepper drivers | 2 | 2 | [Owned](https://google.com) | Owned | Owned |
 | 100nF Capacitors | Decoupling for the electronics | 2+ | 2+ | [Owned](https://google.com) | Owned | Owned |
 | Barrel Jack | Main power input | 1 | 1 | [Owned](https://google.com) | Owned | Owned |
 | Screw Terminals / Connectors | Connects motors and power wiring | As required | As required | [Owned](https://google.com) | Owned | Owned |
-| Fuse Holder/ Fuse | Holds the fuse | 1 | 1 | [Aliexpress](https://www.aliexpress.com/item/1005007445051950.html?pdp_ext_f=%7B%22order%22%3A%22222%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D) | €2.10 | Aliexpress |
-| SB540 Schottky diode | reverse polarary protection | 1 | 1 | [Aliexpress](https://www.aliexpress.com/item/1005012903395914.html?pdp_ext_f=%7B%22order%22%3A%221%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D) | €2.27  | Aliexpress |
-**Total** **€127.66**
+| Fuse | Protects the main power input | 1 | 1 | [Amazon](https://www.amazon.ie/SeKi-Micro-Fuse-Glass-Fuses/dp/B09JZHQYR6/ref=sr_1_2?sr=8-2) | €6.88 | Amazon |
+| Fuse Holder | Holds the fuse | 1 | 1 | [Amazon](https://www.amazon.ie/ECSiNG-Holder-Transparent-Terminals-5x20mm/dp/B0C4983C7C/ref=sr_1_2?sr=8-2) | €7.49 | Amazon |
+| SB540 Schottky diode | reverse polarary protection | 1 | 1 | [Amazon](https://www.amazon.ie/20-Pieces-SR540-Schottky-Rectifier/dp/B079KDRFY7/ref=sr_1_2?sr=8-2) | €6.26  | Amazon |
+**Total** **€130.83**
 
 Prices are for the full packs purchased, not the cost of only the parts used. The third stepper motor and spare LED rings are included in the purchase quantities.
 
