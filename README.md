@@ -1,5 +1,5 @@
 # Portable 3D Scanner
-<img width="1768" height="926" alt="Screenshot 2026-11-02 200255" src="https://github.com/user-attachments/assets/cd03dc1a-822b-4394-810b-dc359ea0d356" />
+<img width="2560" height="1052" alt="a1b7d73e-0a19-432c-bb13-a8a60c5dd53c" src="https://github.com/user-attachments/assets/09186a93-5958-4d18-8990-4dafdcb3ecab" />
 
 A portable 3D scanner built from scratch. The scanner uses a nema 17 on the arch and rotating turntable to capture objects from different angles and create 3D models.
 The design uses an ESP32, two NEMA 17 stepper motors, DRV8825 drivers and a 1080p USB camera.
